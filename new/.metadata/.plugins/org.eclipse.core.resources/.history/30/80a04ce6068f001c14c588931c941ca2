@@ -1,0 +1,24 @@
+package com.test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Tester {
+
+	public static void main(String[] args) {
+
+		int[] intArray = { 72, 34, 56, 23, 87, 31, 233, 12 };
+
+		// Sum of Even num -> Java 8
+
+		List<Integer> intArrayList = new ArrayList<>();
+
+		for (int i : intArray) {
+			intArrayList.add(i);
+		}
+		
+		
+
+	}
+
+}

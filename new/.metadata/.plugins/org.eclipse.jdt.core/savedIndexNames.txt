@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+G:\A_Java\Z_Java FrameWork\Spring-2022-Practice\practice-3-Interview\new\.metadata\.plugins\org.eclipse.jdt.core
+3947340937.index
+3532077727.index

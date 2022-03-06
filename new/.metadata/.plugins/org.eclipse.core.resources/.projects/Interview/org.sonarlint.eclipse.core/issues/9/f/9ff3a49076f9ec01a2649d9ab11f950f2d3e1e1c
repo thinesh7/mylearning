@@ -1,0 +1,7 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Τ—›ª8•νΉπ/HjRMAJORZ
+CODE_SMELL
+b
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(Τ—›ª8άβ±π/HlRMAJORZBUG
+j	java:S106"9Replace this use of System.out or System.err by a logger.( §‡έ8όπ/HkRMAJORZ
+CODE_SMELL
